@@ -1,2 +1,2 @@
 # Description
-This is a repository to upload code I wrote to practice Python
+This is a repository contains code for practicing Python
